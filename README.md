@@ -1,15 +1,14 @@
-# RUN-buddy
+# Run Buddy
 
-## purpose 
-a website that offers fitness training service.
+## Purpose
+A website that offers fitness training services.
 
-##built with
-*HTML
-*CSS
+## Built With
+* HTML
+* CSS
 
-##website
-
+## Website
 https://lernantino.github.io/run-buddy/
 
-## contribution
-made with ❤️ by brian
+## Contribution
+Made with ❤️ by [your name]
