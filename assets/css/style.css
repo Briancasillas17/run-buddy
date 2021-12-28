@@ -1,7 +1,5 @@
-<style> 
 
-
-{
+.hero-cta{
 color: #39a6b2;
 font-family: Helvetica, Arial, sans-serif;
 }
@@ -60,7 +58,7 @@ text-align: right;
 }
 .hades {
 padding: 60px;
-background-image: url("../../hero-bg.jpg");
+background-image: url("../images/trainer-4.jpg");
 height: 600px;
 background-size: cover;
 background-position: center;
@@ -251,7 +249,3 @@ font-style: normal;
 .contact-info a {
 color: #fce138;
 }
-
-
-
-</style>
