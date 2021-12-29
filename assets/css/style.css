@@ -11,13 +11,13 @@ padding: 0;
 header {
 padding: 20px 35px;
 background-color: #39a6b2;
+display: flex;
 }
 header a {
 text-decoration: none;
 color: #fce138;
 }
 header nav {
-float: right;
 margin: 7px 0;
 }
 header nav ul li {
@@ -33,7 +33,7 @@ font-weight: bold;
 font-size: 36px;
 color: #fce138;
 margin: 0;
-display: inline;
+
 }
 footer {
 background: #fce138;
@@ -239,7 +239,7 @@ color: #fce138;
 font-size: 32px;
 }
 
-.contact-form, .contact-form {
+.contact-info p, .contact-info address {
 margin: 20px 0;
 line-height: 1.5;
 font-size: 20px;
